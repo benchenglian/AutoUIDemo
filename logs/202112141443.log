@@ -1,0 +1,101 @@
+2021-12-14 14:43:36,491 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:43:36,492 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:43:36,492 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:43:38,372 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:43:39,508 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:43:39,699 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:43:39,732 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:43:39,903 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 14:43:39,936 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:43:40,018 - Base - INFO - 在文本框录入 ' F1e9n8g9! ' 数据
+2021-12-14 14:43:40,037 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:43:40,046 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:43:40,288 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:43:40,294 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:43:42,966 - Base - INFO - 获取元素 ' (5s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 14:43:42,976 - Base - INFO - 该元素在页面显示，向下执行
+2021-12-14 14:43:42,987 - Base - INFO - 获取元素 ' (5s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 14:43:42,991 - Base - INFO - 该元素 ' (5s) ' 已被点击.
+2021-12-14 14:43:43,043 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@type='text' and @class='input'] 
+2021-12-14 14:43:43,125 - Base - INFO - 在文本框录入 ' 自动化测试 ' 数据
+2021-12-14 14:43:43,154 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='search-btn'] 
+2021-12-14 14:43:43,162 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:43:44,479 - Base - INFO - 获取元素text 
+Selenium自动化测试实战
+项目驱动，深入理解Selenium原理与实战技巧
+郭宏志
+享学志成科技创始人兼CEO
+2021-12-14 14:43:44,623 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:43:44,624 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:43:44,624 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:43:46,353 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:43:47,508 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:43:47,639 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:43:47,662 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:43:47,820 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 14:43:47,866 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:43:47,927 - Base - INFO - 在文本框录入 ' F1e9n8g9! ' 数据
+2021-12-14 14:43:47,949 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:43:47,959 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:43:48,139 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:43:48,144 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:43:50,983 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 14:43:50,993 - Base - INFO - 该元素在页面显示，向下执行
+2021-12-14 14:43:51,004 - Base - INFO - 获取元素 ' (5s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 14:43:51,009 - Base - INFO - 该元素 ' (5s) ' 已被点击.
+2021-12-14 14:43:51,058 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@type='text' and @class='input'] 
+2021-12-14 14:43:51,121 - Base - INFO - 在文本框录入 ' 接口自动化 ' 数据
+2021-12-14 14:43:51,143 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='search-btn'] 
+2021-12-14 14:43:51,150 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:43:52,364 - Base - INFO - 获取元素text 开篇词 | 把接口测试这件小事做深、做透
+这样随着课程的深入，你会建立一套自己的接口测试框架，也会同时完成从接口测试到接口自动化测试的转变。...
+2020-02-03
+接口测试入门课
+陈磊
+2021-12-14 14:43:52,504 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:43:52,504 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:43:52,504 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:43:54,187 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:43:55,638 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:43:55,767 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:43:55,787 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:43:55,932 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 14:43:55,974 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:43:56,034 - Base - INFO - 在文本框录入 ' F1e9n8g9! ' 数据
+2021-12-14 14:43:56,055 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:43:56,061 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:43:56,243 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:43:56,249 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:43:58,067 - Base - INFO - 获取元素text 阿廉
+2021-12-14 14:43:58,183 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:43:58,183 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:43:58,184 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:43:59,804 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:44:01,319 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:44:01,446 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:44:01,467 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:44:01,607 - Base - INFO - 在文本框录入 ' 13269000012 ' 数据
+2021-12-14 14:44:01,628 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:44:01,707 - Base - INFO - 在文本框录入 ' adfjkoiosd ' 数据
+2021-12-14 14:44:01,726 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:44:01,731 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:44:01,913 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:44:01,919 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:44:02,672 - Base - INFO - 获取元素text 该账号不存在
+2021-12-14 14:44:02,774 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:44:02,775 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:44:02,775 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:44:04,423 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:44:05,468 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:44:05,598 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:44:05,622 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:44:05,759 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 14:44:05,825 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:44:05,932 - Base - INFO - 在文本框录入 ' adfjkoiosd ' 数据
+2021-12-14 14:44:05,959 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:44:05,967 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:44:06,160 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:44:06,168 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:44:07,220 - Base - INFO - 获取元素text 密码错误
+2021-12-14 14:44:07,474 - run_UI_Test - INFO - 执行UI自动化测试
+2021-12-14 14:44:09,996 - run_UI_Test - INFO - 报告地址:/Users/frank.lian/PycharmProjects/AutoUIDemo/report/html/index.html

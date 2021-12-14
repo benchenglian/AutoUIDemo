@@ -1,0 +1,170 @@
+2021-12-14 14:34:52,598 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:34:52,598 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:34:52,599 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:34:55,174 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:34:56,239 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:34:56,404 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:34:56,425 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:34:56,557 - Base - INFO - 在文本框录入 ' username ' 数据
+2021-12-14 14:34:56,583 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:34:56,649 - Base - INFO - 在文本框录入 ' password ' 数据
+2021-12-14 14:34:56,669 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:34:56,677 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:34:56,999 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:34:57,005 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:35:07,068 - Base - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='close']"}
+  (Session info: chrome=96.0.4664.93)
+Stacktrace:
+0   chromedriver                        0x00000001021ca269 __gxx_personality_v0 + 582729
+1   chromedriver                        0x0000000102155c33 __gxx_personality_v0 + 106003
+2   chromedriver                        0x0000000101d12e28 chromedriver + 171560
+3   chromedriver                        0x0000000101d483d2 chromedriver + 390098
+4   chromedriver                        0x0000000101d48591 chromedriver + 390545
+5   chromedriver                        0x0000000101d7a6b4 chromedriver + 595636
+6   chromedriver                        0x0000000101d659fd chromedriver + 510461
+7   chromedriver                        0x0000000101d78462 chromedriver + 586850
+8   chromedriver                        0x0000000101d65c23 chromedriver + 511011
+9   chromedriver                        0x0000000101d3b75e chromedriver + 337758
+10  chromedriver                        0x0000000101d3ca95 chromedriver + 342677
+11  chromedriver                        0x00000001021868ab __gxx_personality_v0 + 305803
+12  chromedriver                        0x000000010219d863 __gxx_personality_v0 + 399939
+13  chromedriver                        0x00000001021a2c7f __gxx_personality_v0 + 421471
+14  chromedriver                        0x000000010219ebba __gxx_personality_v0 + 404890
+15  chromedriver                        0x000000010217ae51 __gxx_personality_v0 + 258097
+16  chromedriver                        0x00000001021ba158 __gxx_personality_v0 + 516920
+17  chromedriver                        0x00000001021ba2e1 __gxx_personality_v0 + 517313
+18  chromedriver                        0x00000001021d16f8 __gxx_personality_v0 + 612568
+19  libsystem_pthread.dylib             0x00007fff6c279109 _pthread_start + 148
+20  libsystem_pthread.dylib             0x00007fff6c274b8b thread_start + 15
+
+2021-12-14 14:35:07,169 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:35:07,170 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:35:07,170 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:35:08,768 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:35:18,956 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:35:19,083 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:35:19,103 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:35:19,243 - Base - INFO - 在文本框录入 ' username ' 数据
+2021-12-14 14:35:19,266 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:35:19,351 - Base - INFO - 在文本框录入 ' password ' 数据
+2021-12-14 14:35:19,375 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:35:19,381 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:35:19,626 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:35:19,632 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:35:29,679 - Base - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='close']"}
+  (Session info: chrome=96.0.4664.93)
+Stacktrace:
+0   chromedriver                        0x00000001077f8269 __gxx_personality_v0 + 582729
+1   chromedriver                        0x0000000107783c33 __gxx_personality_v0 + 106003
+2   chromedriver                        0x0000000107340e28 chromedriver + 171560
+3   chromedriver                        0x00000001073763d2 chromedriver + 390098
+4   chromedriver                        0x0000000107376591 chromedriver + 390545
+5   chromedriver                        0x00000001073a86b4 chromedriver + 595636
+6   chromedriver                        0x00000001073939fd chromedriver + 510461
+7   chromedriver                        0x00000001073a6462 chromedriver + 586850
+8   chromedriver                        0x0000000107393c23 chromedriver + 511011
+9   chromedriver                        0x000000010736975e chromedriver + 337758
+10  chromedriver                        0x000000010736aa95 chromedriver + 342677
+11  chromedriver                        0x00000001077b48ab __gxx_personality_v0 + 305803
+12  chromedriver                        0x00000001077cb863 __gxx_personality_v0 + 399939
+13  chromedriver                        0x00000001077d0c7f __gxx_personality_v0 + 421471
+14  chromedriver                        0x00000001077ccbba __gxx_personality_v0 + 404890
+15  chromedriver                        0x00000001077a8e51 __gxx_personality_v0 + 258097
+16  chromedriver                        0x00000001077e8158 __gxx_personality_v0 + 516920
+17  chromedriver                        0x00000001077e82e1 __gxx_personality_v0 + 517313
+18  chromedriver                        0x00000001077ff6f8 __gxx_personality_v0 + 612568
+19  libsystem_pthread.dylib             0x00007fff6c279109 _pthread_start + 148
+20  libsystem_pthread.dylib             0x00007fff6c274b8b thread_start + 15
+
+2021-12-14 14:35:29,693 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:35:29,694 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:35:29,694 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:35:31,641 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:35:34,330 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:35:34,459 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:35:34,481 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:35:34,624 - Base - INFO - 在文本框录入 ' username ' 数据
+2021-12-14 14:35:34,673 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:35:34,739 - Base - INFO - 在文本框录入 ' password ' 数据
+2021-12-14 14:35:34,762 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:35:34,769 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:35:35,021 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:35:35,027 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:35:45,100 - Base - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='close']"}
+  (Session info: chrome=96.0.4664.93)
+Stacktrace:
+0   chromedriver                        0x0000000102f04269 __gxx_personality_v0 + 582729
+1   chromedriver                        0x0000000102e8fc33 __gxx_personality_v0 + 106003
+2   chromedriver                        0x0000000102a4ce28 chromedriver + 171560
+3   chromedriver                        0x0000000102a823d2 chromedriver + 390098
+4   chromedriver                        0x0000000102a82591 chromedriver + 390545
+5   chromedriver                        0x0000000102ab46b4 chromedriver + 595636
+6   chromedriver                        0x0000000102a9f9fd chromedriver + 510461
+7   chromedriver                        0x0000000102ab2462 chromedriver + 586850
+8   chromedriver                        0x0000000102a9fc23 chromedriver + 511011
+9   chromedriver                        0x0000000102a7575e chromedriver + 337758
+10  chromedriver                        0x0000000102a76a95 chromedriver + 342677
+11  chromedriver                        0x0000000102ec08ab __gxx_personality_v0 + 305803
+12  chromedriver                        0x0000000102ed7863 __gxx_personality_v0 + 399939
+13  chromedriver                        0x0000000102edcc7f __gxx_personality_v0 + 421471
+14  chromedriver                        0x0000000102ed8bba __gxx_personality_v0 + 404890
+15  chromedriver                        0x0000000102eb4e51 __gxx_personality_v0 + 258097
+16  chromedriver                        0x0000000102ef4158 __gxx_personality_v0 + 516920
+17  chromedriver                        0x0000000102ef42e1 __gxx_personality_v0 + 517313
+18  chromedriver                        0x0000000102f0b6f8 __gxx_personality_v0 + 612568
+19  libsystem_pthread.dylib             0x00007fff6c279109 _pthread_start + 148
+20  libsystem_pthread.dylib             0x00007fff6c274b8b thread_start + 15
+
+2021-12-14 14:35:45,114 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:35:45,115 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:35:45,115 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:35:47,053 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:35:51,444 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:35:51,570 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:35:51,589 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:35:51,721 - Base - INFO - 在文本框录入 ' username ' 数据
+2021-12-14 14:35:51,755 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:35:51,833 - Base - INFO - 在文本框录入 ' password ' 数据
+2021-12-14 14:35:51,858 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:35:51,864 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:35:52,118 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:35:52,125 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 14:36:02,198 - Base - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='close']"}
+  (Session info: chrome=96.0.4664.93)
+Stacktrace:
+0   chromedriver                        0x000000010c741269 __gxx_personality_v0 + 582729
+1   chromedriver                        0x000000010c6ccc33 __gxx_personality_v0 + 106003
+2   chromedriver                        0x000000010c289e28 chromedriver + 171560
+3   chromedriver                        0x000000010c2bf3d2 chromedriver + 390098
+4   chromedriver                        0x000000010c2bf591 chromedriver + 390545
+5   chromedriver                        0x000000010c2f16b4 chromedriver + 595636
+6   chromedriver                        0x000000010c2dc9fd chromedriver + 510461
+7   chromedriver                        0x000000010c2ef462 chromedriver + 586850
+8   chromedriver                        0x000000010c2dcc23 chromedriver + 511011
+9   chromedriver                        0x000000010c2b275e chromedriver + 337758
+10  chromedriver                        0x000000010c2b3a95 chromedriver + 342677
+11  chromedriver                        0x000000010c6fd8ab __gxx_personality_v0 + 305803
+12  chromedriver                        0x000000010c714863 __gxx_personality_v0 + 399939
+13  chromedriver                        0x000000010c719c7f __gxx_personality_v0 + 421471
+14  chromedriver                        0x000000010c715bba __gxx_personality_v0 + 404890
+15  chromedriver                        0x000000010c6f1e51 __gxx_personality_v0 + 258097
+16  chromedriver                        0x000000010c731158 __gxx_personality_v0 + 516920
+17  chromedriver                        0x000000010c7312e1 __gxx_personality_v0 + 517313
+18  chromedriver                        0x000000010c7486f8 __gxx_personality_v0 + 612568
+19  libsystem_pthread.dylib             0x00007fff6c279109 _pthread_start + 148
+20  libsystem_pthread.dylib             0x00007fff6c274b8b thread_start + 15
+
+2021-12-14 14:36:02,215 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 14:36:02,216 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 14:36:02,216 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 14:36:04,248 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 14:36:18,099 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 14:36:18,229 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 14:36:18,253 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 14:36:18,407 - Base - INFO - 在文本框录入 ' username ' 数据
+2021-12-14 14:36:18,447 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 14:36:18,523 - Base - INFO - 在文本框录入 ' password ' 数据
+2021-12-14 14:36:18,546 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 14:36:18,553 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 14:36:18,803 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 14:36:18,811 - Base - INFO - 该元素 ' 登录 ' 已被点击.

@@ -1,0 +1,50 @@
+2021-12-14 11:48:41,008 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 11:48:41,008 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 11:48:41,009 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 11:48:43,126 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 11:48:44,135 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 11:48:44,324 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 11:48:44,389 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 11:48:44,537 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 11:48:44,564 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 11:48:44,624 - Base - INFO - 在文本框录入 ' F1e9n8g9! ' 数据
+2021-12-14 11:48:44,646 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 11:48:44,651 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 11:48:44,892 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 11:48:44,899 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 11:48:47,622 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 11:48:47,632 - Base - INFO - 休眠一秒后再判断
+2021-12-14 11:48:48,646 - Base - INFO - 该元素在页面显示，向下执行
+2021-12-14 11:48:48,657 - Base - INFO - 获取元素 ' (4s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 11:48:48,662 - Base - INFO - 该元素 ' (4s) ' 已被点击.
+2021-12-14 11:48:48,710 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@type='text' and @class='input'] 
+2021-12-14 11:48:48,787 - Base - INFO - 在文本框录入 ' 自动化测试 ' 数据
+2021-12-14 11:48:48,806 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='search-btn'] 
+2021-12-14 11:48:48,821 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 11:48:51,243 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 11:48:51,244 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 11:48:51,245 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 11:48:52,891 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 11:48:54,456 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 11:48:54,583 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 11:48:54,602 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 11:48:54,737 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 11:48:54,776 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 11:48:54,838 - Base - INFO - 在文本框录入 ' F1e9n8g9! ' 数据
+2021-12-14 11:48:54,856 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 11:48:54,862 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 11:48:55,035 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 11:48:55,041 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 11:48:57,501 - Base - INFO - 获取元素 ' (5s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 11:48:57,511 - Base - INFO - 该元素在页面显示，向下执行
+2021-12-14 11:48:57,521 - Base - INFO - 获取元素 ' (5s) ' 成功 by xpath 值为: //*[@class='close'] 
+2021-12-14 11:48:57,525 - Base - INFO - 该元素 ' (5s) ' 已被点击.
+2021-12-14 11:48:57,573 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@type='text' and @class='input'] 
+2021-12-14 11:48:57,643 - Base - INFO - 在文本框录入 ' 接口自动化 ' 数据
+2021-12-14 11:48:57,664 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@class='search-btn'] 
+2021-12-14 11:48:57,670 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 11:48:58,758 - Base - INFO - 获取元素text 开篇词 | 把接口测试这件小事做深、做透
+这样随着课程的深入，你会建立一套自己的接口测试框架，也会同时完成从接口测试到接口自动化测试的转变。...
+2020-02-03
+接口测试入门课
+陈磊

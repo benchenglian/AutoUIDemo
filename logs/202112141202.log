@@ -1,0 +1,30 @@
+2021-12-14 12:02:59,376 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 12:02:59,377 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 12:02:59,377 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 12:03:01,500 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 12:03:03,271 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 12:03:03,462 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 12:03:03,493 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 12:03:03,688 - Base - INFO - 在文本框录入 ' 13269000012 ' 数据
+2021-12-14 12:03:03,726 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 12:03:03,787 - Base - INFO - 在文本框录入 ' adfjkoiosd ' 数据
+2021-12-14 12:03:03,806 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 12:03:03,811 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 12:03:04,122 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 12:03:04,128 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 12:03:04,924 - Base - INFO - 获取元素text 该账号不存在
+2021-12-14 12:03:10,286 - BrowserEngine - INFO - 配置文件路径/Users/frank.lian/PycharmProjects/AutoUIDemo/config/config.ini
+2021-12-14 12:03:10,287 - BrowserEngine - INFO - 你选择chrome浏览器.
+2021-12-14 12:03:10,288 - BrowserEngine - INFO - 测试地址是https://account.geekbang.org/login
+2021-12-14 12:03:12,000 - BrowserEngine - INFO - 打开Chrome浏览器
+2021-12-14 12:03:13,042 - BrowserEngine - INFO - 打开URLhttps://account.geekbang.org/login:
+2021-12-14 12:03:13,321 - BrowserEngine - INFO - 设置隐性等待10秒
+2021-12-14 12:03:13,350 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='手机号'] 
+2021-12-14 12:03:13,501 - Base - INFO - 在文本框录入 ' 18510601975 ' 数据
+2021-12-14 12:03:13,554 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@placeholder='密码'] 
+2021-12-14 12:03:13,617 - Base - INFO - 在文本框录入 ' adfjkoiosd ' 数据
+2021-12-14 12:03:13,637 - Base - INFO - 获取元素 '  ' 成功 by xpath 值为: //*[@id='agree'] 
+2021-12-14 12:03:13,643 - Base - INFO - 该元素 '  ' 已被点击.
+2021-12-14 12:03:13,821 - Base - INFO - 获取元素 ' 登录 ' 成功 by xpath 值为: //*[@gkbtn-color='login'] 
+2021-12-14 12:03:13,827 - Base - INFO - 该元素 ' 登录 ' 已被点击.
+2021-12-14 12:03:14,774 - Base - INFO - 获取元素text 密码错误

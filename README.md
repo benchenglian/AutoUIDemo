@@ -29,7 +29,7 @@ browser_engine.py文件读取该文件信息，启动浏览器，打开被测系
 ## pageobjects 各页面把其看作：对象库层的一部分，和逻辑层
 
 封装系统各页面，定位信息和操作；继承base_page中的BasePage类；
-'''
+"""
     # 录入用户名
     username = 'xpath=>//*[@name="username"]' #用户名文本框
     def enter_username(self, text):
@@ -39,8 +39,8 @@ browser_engine.py文件读取该文件信息，启动浏览器，打开被测系
     password = 'xpath=>//*[@id="password"]' # 密码
     def enter_password(self,text):
         self.enter(self.password,text)
-'''
-'''
+"""
+"""
     # 登录的逻辑，也可以把他放到testase中。
     def login(self, username, password):
         """
@@ -52,7 +52,7 @@ browser_engine.py文件读取该文件信息，启动浏览器，打开被测系
         self.enter(self.username, username)
         self.enter(self.password, password)
         self.click_element(self.login_btn)
-'''
+"""
 
 ## testcase 业务层和数据层
 
